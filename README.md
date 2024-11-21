@@ -14,8 +14,9 @@ I'm a passionate **Android Developer** and **QA Engineer** with a deep love for 
 - **2012**: I switched my major to **Information Systems** at **FURB** 🎓.
 - **2014 - 2017**: Worked at **Senior Sistemas** as a Software Quality Analyst 🔍, gaining expertise in test automation and improving product quality.
 - **2018**: I opened a bakery with my mother, where we made high-quality sweets and cakes 🍰.
-- **2021**: I decided to sell the bakery, as my focus was 100% on the IT field 💼.
 - **2020 - Present**: Currently a **Senior QA Analyst at PagSeguro** ⚙️, where I implemented **UI E2E tests with Cypress** and **API E2E tests with RestAssured** to ensure high software quality across web, mobile, and APIs 🌐.
+- **2021**: I decided to sell the bakery, as my focus was 100% on the IT field 💼.
+- **2021**: Started Bitcoin and Ethereum ⛏️ mining operations, exploring the world of cryptocurrencies and blockchain technologies.
 - **2024 -**: Fully dedicated to studying **Android app development** 📱.
 
 ---
