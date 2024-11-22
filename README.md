@@ -1,6 +1,31 @@
 ## Hi there 👋
 
+###### Hit my repositories and you will find some cool **Android** Apps.
+
 I'm a passionate **Android Developer** and **QA Engineer** with a deep love for technology, gaming, and continuous learning. 🚀 I thrive on creating high-quality applications while ensuring smooth, reliable software performance through rigorous testing.
+
+<a href="https://www.instagram.com/filipertavares" target="_blank">
+  <img width="30" height="30" src="https://github.com/filipetavaresr/filipetavaresr/blob/main/icons/instagram.png?raw=true" alt="Instagram" witdh="44" height="44" hspace="10">
+</a>
+<a href="https://x.com/filipertavares" target="_blank">
+  <img width="30" height="30" src="https://github.com/filipetavaresr/filipetavaresr/blob/main/icons/twitter.png?raw=true" alt="Github" witdh="44" height="44" hspace="10">
+</a>
+<!--
+<a href="https://play.google.com/store/apps/dev?id=8002078663318221363" target="_blank">
+  <img width="30" height="30" src="https://github.com/filipetavaresr/filipetavaresr/blob/main/icons/google-play.png?raw=true" alt="Google Play Store" witdh="44" height="44" hspace="10">
+</a>
+-->
+<a href="mailto:filipertavares9@gmail.com" target="_blank" >
+  <img width="30" height="30" src="https://github.com/filipetavaresr/filipetavaresr/blob/main/icons/gmail.png?raw=true" alt="E-mail" witdh="44" height="44" hspace="10">
+</a>
+<a href="https://stackoverflow.com/users/28416395/filipe-tavares" target="_blank" >
+  <img width="30" height="30" src="https://github.com/filipetavaresr/filipetavaresr/blob/main/icons/stack-overflow.png?raw=true" alt="Stack Overflow" witdh="44" height="44" hspace="10">
+</a>
+<a href="https://www.linkedin.com/in/filipe-tavares-b47809127/" target="_blank" >
+  <img width="30" height="30" src="https://github.com/filipetavaresr/filipetavaresr/blob/main/icons/linkedin.png?raw=true" alt="Linkedin" witdh="44" height="44" hspace="10">
+</a>
+
+#
 
 ## 🕹️ My Life Journey in Tech and Beyond
 
