@@ -25,9 +25,7 @@ I'm a passionate **Android Developer** and **QA Engineer** with a deep love for 
   <img width="30" height="30" src="https://github.com/filipetavaresr/filipetavaresr/blob/main/icons/linkedin.png?raw=true" alt="Linkedin" witdh="44" height="44" hspace="10">
 </a>
 
-#
-
-🕹️ My Life Journey in Tech and Beyond
+##🕹️ My Life Journey in Tech and Beyond
 
 - **1993 (3 years old)**: Received my first video game, an **Atari** 🎮. That gift sparked my lifelong passion for games, from consoles to PCs, and I’m still fascinated by them today.
 - **1997 (7 years old)**: My first encounter with a **computer** 💻! My mom (a school secretary) taught me the basics, including how to navigate the internet, and from that moment, I fell in love with technology.
